@@ -86,3 +86,4 @@ A 3D obstacle-dodging game where you control a rolling ball through colorful cha
 | Level completion        | Unlock next level |
 
 > 💡 **Pro Tip**: Time your jumps carefully – you can leap over incoming balls and avoid death!
+> ![Daytime View](DayMode.JPG)
