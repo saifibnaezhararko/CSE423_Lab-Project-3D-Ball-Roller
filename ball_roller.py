@@ -427,7 +427,7 @@ def draw_checkerboard():
 def draw_interface():
     # cheat mode indicator
     if CHEAT_MODE:
-        draw_text(WINDOW_WIDTH - 200, WINDOW_HEIGHT - 30, "CHEAT MODE ACTIVE", GLUT_BITMAP_HELVETICA_18)
+        draw_text(WINDOW_WIDTH - 200, WINDOW_HEIGHT - 30, "CHEAT MODE ACTIVE", GLUT_BITMAP_HELVETICA_12)
 
     # invincibility indicator
     if INVINCIBLE:
