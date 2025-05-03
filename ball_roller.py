@@ -167,7 +167,7 @@ def setupCamera():
         gluLookAt(eye_x, eye_y, eye_z, eye_x, eye_y, eye_z - 1, 0, 1, 0)
 
 
-def draw_text(x, y, text, font=GLUT_BITMAP_HELVETICA_18):
+def draw_text(x, y, text, font=GLUT_BITMAP_HELVETICA_12):
     glColor3f(1, 1, 1)
     glMatrixMode(GL_PROJECTION)
     glPushMatrix()
